@@ -58,7 +58,7 @@ class PlaceViewController: UIViewController,UITableViewDelegate,UITableViewDataS
     }
 
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return needCells.count
+        return 10
         
     }
     
