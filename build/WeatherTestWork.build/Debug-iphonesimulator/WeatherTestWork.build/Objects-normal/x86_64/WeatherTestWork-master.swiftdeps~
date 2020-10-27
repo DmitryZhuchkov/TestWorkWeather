@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.25.2 clang-1200.0.27.1)"
+options: "026fd8fdf608d199c7674d851439e8de"
+build_time: [1603827218, 22138000]
+inputs:
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/ViewController.swift": !dirty [1603803846, 885068403]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/CityViewController.swift": !dirty [1603741542, 739178760]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/DescriptionViewController.swift": !dirty [1603801772, 593197122]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/AppDelegate.swift": !dirty [1603804234, 444893406]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/SceneDelegate.swift": !dirty [1603803846, 883174060]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/Place+CoreDataClass.swift": !dirty [1603813981, 756514233]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/CellWeather.swift": !dirty [1603367384, 701355701]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/PresistentStore.swift": !dirty [1603813530, 530929891]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/Place+CoreDataProperties.swift": !dirty [1603813092, 873220955]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/PlaceDataModel.swift": !dirty [1603819469, 156428002]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/PlaceViewController.swift": !dirty [1603822092, 604607926]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/CitySelectViewController.swift": !dirty [1603738765, 3314574]

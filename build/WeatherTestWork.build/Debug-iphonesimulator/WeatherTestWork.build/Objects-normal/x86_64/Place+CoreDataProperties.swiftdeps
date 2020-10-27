@@ -1,0 +1,305 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "15WeatherTestWork5PlaceC"
+provides-member:
+- ["15WeatherTestWork5PlaceC", ""]
+- ["15WeatherTestWork5PlaceC", "fetchRequest"]
+- ["15WeatherTestWork5PlaceC", "fullDescription"]
+- ["15WeatherTestWork5PlaceC", "image"]
+- ["15WeatherTestWork5PlaceC", "latitude"]
+- ["15WeatherTestWork5PlaceC", "longitude"]
+- ["15WeatherTestWork5PlaceC", "name"]
+- ["15WeatherTestWork5PlaceC", "sightsName"]
+- ["15WeatherTestWork5PlaceC", "smallDescription"]
+provides-dynamic-lookup:
+- "fetchRequest"
+- "fullDescription"
+- "image"
+- "latitude"
+- "longitude"
+- "name"
+- "sightsName"
+- "smallDescription"
+depends-top-level:
+- "Double"
+- "Identifiable"
+- "NSFetchRequest"
+- "NSObject"
+- "Place"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["s7CVarArgP", "Default_ID"]
+- ["s7CVarArgP", "ID"]
+- !private ["s7CVarArgP", "NSFetchRequest"]
+- ["s7CVarArgP", "_Default_ID"]
+- ["s7CVarArgP", "id"]
+- !private ["s7CVarArgP", "init"]
+- ["s28CustomDebugStringConvertibleP", "Default_ID"]
+- ["s28CustomDebugStringConvertibleP", "ID"]
+- !private ["s28CustomDebugStringConvertibleP", "NSFetchRequest"]
+- ["s28CustomDebugStringConvertibleP", "_Default_ID"]
+- ["s28CustomDebugStringConvertibleP", "id"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "Default_ID"]
+- ["s23CustomStringConvertibleP", "ID"]
+- !private ["s23CustomStringConvertibleP", "NSFetchRequest"]
+- ["s23CustomStringConvertibleP", "_Default_ID"]
+- ["s23CustomStringConvertibleP", "id"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["SQ", "Default_ID"]
+- ["SQ", "ID"]
+- !private ["SQ", "NSFetchRequest"]
+- ["SQ", ""]
+- ["SQ", "_Default_ID"]
+- ["SQ", "id"]
+- !private ["SQ", "init"]
+- ["SH", "Default_ID"]
+- ["SH", "ID"]
+- !private ["SH", "NSFetchRequest"]
+- ["SH", "_Default_ID"]
+- ["SH", "id"]
+- !private ["SH", "init"]
+- ["s12IdentifiableP", "Default_ID"]
+- ["s12IdentifiableP", "ID"]
+- !private ["s12IdentifiableP", "NSFetchRequest"]
+- ["s12IdentifiableP", ""]
+- ["s12IdentifiableP", "_Default_ID"]
+- ["s12IdentifiableP", "id"]
+- !private ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "fetchRequestWithEntityName"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So14NSFetchRequestC", "init"]
+- ["So20NSFetchRequestResultP", "Default_ID"]
+- ["So20NSFetchRequestResultP", "Double"]
+- ["So20NSFetchRequestResultP", "ID"]
+- ["So20NSFetchRequestResultP", "NSFetchRequest"]
+- ["So20NSFetchRequestResultP", "NSObject"]
+- ["So20NSFetchRequestResultP", "Place"]
+- ["So20NSFetchRequestResultP", "String"]
+- ["So20NSFetchRequestResultP", "_Default_ID"]
+- ["So20NSFetchRequestResultP", "fetchRequest"]
+- ["So20NSFetchRequestResultP", "fullDescription"]
+- ["So20NSFetchRequestResultP", "id"]
+- ["So20NSFetchRequestResultP", "image"]
+- ["So20NSFetchRequestResultP", "latitude"]
+- ["So20NSFetchRequestResultP", "longitude"]
+- ["So20NSFetchRequestResultP", "name"]
+- ["So20NSFetchRequestResultP", "sightsName"]
+- ["So20NSFetchRequestResultP", "smallDescription"]
+- ["So15NSManagedObjectC", "Default_ID"]
+- ["So15NSManagedObjectC", "Double"]
+- ["So15NSManagedObjectC", "ID"]
+- ["So15NSManagedObjectC", "NSFetchRequest"]
+- ["So15NSManagedObjectC", "NSObject"]
+- ["So15NSManagedObjectC", "Place"]
+- ["So15NSManagedObjectC", "String"]
+- ["So15NSManagedObjectC", ""]
+- ["So15NSManagedObjectC", "_Default_ID"]
+- ["So15NSManagedObjectC", "fetchRequest"]
+- ["So15NSManagedObjectC", "fullDescription"]
+- ["So15NSManagedObjectC", "id"]
+- ["So15NSManagedObjectC", "image"]
+- ["So15NSManagedObjectC", "latitude"]
+- ["So15NSManagedObjectC", "longitude"]
+- ["So15NSManagedObjectC", "name"]
+- ["So15NSManagedObjectC", "sightsName"]
+- ["So15NSManagedObjectC", "smallDescription"]
+- ["So8NSObjectC", "Default_ID"]
+- ["So8NSObjectC", "Double"]
+- ["So8NSObjectC", "ID"]
+- ["So8NSObjectC", "NSFetchRequest"]
+- ["So8NSObjectC", "NSObject"]
+- ["So8NSObjectC", "Place"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "_Default_ID"]
+- ["So8NSObjectC", "fetchRequest"]
+- !private ["So8NSObjectC", "fetchRequestWithEntityName"]
+- ["So8NSObjectC", "fullDescription"]
+- ["So8NSObjectC", "id"]
+- ["So8NSObjectC", "image"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "latitude"]
+- ["So8NSObjectC", "longitude"]
+- ["So8NSObjectC", "name"]
+- ["So8NSObjectC", "sightsName"]
+- ["So8NSObjectC", "smallDescription"]
+- ["So8NSObjectP", "Default_ID"]
+- ["So8NSObjectP", "Double"]
+- ["So8NSObjectP", "ID"]
+- ["So8NSObjectP", "NSFetchRequest"]
+- ["So8NSObjectP", "NSObject"]
+- ["So8NSObjectP", "Place"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "_Default_ID"]
+- ["So8NSObjectP", "fetchRequest"]
+- !private ["So8NSObjectP", "fetchRequestWithEntityName"]
+- ["So8NSObjectP", "fullDescription"]
+- ["So8NSObjectP", "id"]
+- ["So8NSObjectP", "image"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "latitude"]
+- ["So8NSObjectP", "longitude"]
+- ["So8NSObjectP", "name"]
+- ["So8NSObjectP", "sightsName"]
+- ["So8NSObjectP", "smallDescription"]
+- ["So24NSPersistentStoreRequestC", ""]
+- !private ["So24NSPersistentStoreRequestC", "fetchRequestWithEntityName"]
+- !private ["So24NSPersistentStoreRequestC", "init"]
+- ["7Combine16ObservableObjectP", "Default_ID"]
+- ["7Combine16ObservableObjectP", "ID"]
+- !private ["7Combine16ObservableObjectP", "NSFetchRequest"]
+- ["7Combine16ObservableObjectP", "_Default_ID"]
+- ["7Combine16ObservableObjectP", "id"]
+- ["15WeatherTestWork5PlaceC", "Default_ID"]
+- ["15WeatherTestWork5PlaceC", "Double"]
+- ["15WeatherTestWork5PlaceC", "ID"]
+- ["15WeatherTestWork5PlaceC", "NSFetchRequest"]
+- ["15WeatherTestWork5PlaceC", "NSObject"]
+- ["15WeatherTestWork5PlaceC", "Place"]
+- ["15WeatherTestWork5PlaceC", "String"]
+- ["15WeatherTestWork5PlaceC", ""]
+- ["15WeatherTestWork5PlaceC", "_Default_ID"]
+- ["15WeatherTestWork5PlaceC", "fetchRequest"]
+- ["15WeatherTestWork5PlaceC", "fullDescription"]
+- ["15WeatherTestWork5PlaceC", "id"]
+- ["15WeatherTestWork5PlaceC", "image"]
+- ["15WeatherTestWork5PlaceC", "latitude"]
+- ["15WeatherTestWork5PlaceC", "longitude"]
+- ["15WeatherTestWork5PlaceC", "name"]
+- ["15WeatherTestWork5PlaceC", "sightsName"]
+- ["15WeatherTestWork5PlaceC", "smallDescription"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Default_ID"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSFetchRequest"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "_Default_ID"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "id"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Default_ID"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ID"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSFetchRequest"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_Default_ID"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "id"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "s12IdentifiableP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So14NSFetchRequestC"
+- "So20NSFetchRequestResultP"
+- "So15NSManagedObjectC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So24NSPersistentStoreRequestC"
+- "7Combine16ObservableObjectP"
+- "15WeatherTestWork5PlaceC"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/MapKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSStrokeStyle.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSStyleSpan.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygonLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAccessibilityLabels.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9f32b614e2b176294c59de1e4021cd9f"

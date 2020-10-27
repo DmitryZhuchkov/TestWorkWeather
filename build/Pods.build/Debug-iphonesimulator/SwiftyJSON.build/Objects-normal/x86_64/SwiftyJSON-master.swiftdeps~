@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.25.2 clang-1200.0.27.1)"
+options: "7b8f4f8c03ae149d6caa73e3299e0c3b"
+build_time: [1603822004, 879803000]
+inputs:
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1603804106, 858629569]

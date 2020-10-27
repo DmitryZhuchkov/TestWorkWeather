@@ -1,0 +1,194 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PresistentStore"
+provides-nominal:
+- "15WeatherTestWork15PresistentStoreC"
+provides-member:
+- ["15WeatherTestWork15PresistentStoreC", ""]
+provides-dynamic-lookup:
+- "context"
+- "persistentContainer"
+- "saveContext"
+depends-top-level:
+- "CastingPrecedence"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "NSError"
+- "NSManagedObjectContext"
+- "NSPersistentContainer"
+- "PresistentStore"
+- "StringLiteralType"
+- "fatalError"
+- !private "persistentContainer"
+- !private "print"
+depends-member:
+- !private ["s7CVarArgP", "hasChanges"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "loadPersistentStores"]
+- !private ["s7CVarArgP", "save"]
+- ["s7CVarArgP", "userInfo"]
+- !private ["s7CVarArgP", "viewContext"]
+- !private ["s28CustomDebugStringConvertibleP", "hasChanges"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "loadPersistentStores"]
+- !private ["s28CustomDebugStringConvertibleP", "save"]
+- ["s28CustomDebugStringConvertibleP", "userInfo"]
+- !private ["s28CustomDebugStringConvertibleP", "viewContext"]
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "hasChanges"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "loadPersistentStores"]
+- !private ["s23CustomStringConvertibleP", "save"]
+- ["s23CustomStringConvertibleP", "userInfo"]
+- !private ["s23CustomStringConvertibleP", "viewContext"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SQ", ""]
+- !private ["SQ", "hasChanges"]
+- ["SQ", "init"]
+- ["SQ", "loadPersistentStores"]
+- !private ["SQ", "save"]
+- ["SQ", "userInfo"]
+- !private ["SQ", "viewContext"]
+- ["s5ErrorP", "userInfo"]
+- ["s32ExpressibleByStringInterpolationP", "StringInterpolation"]
+- ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["SH", "hasChanges"]
+- ["SH", "init"]
+- ["SH", "loadPersistentStores"]
+- !private ["SH", "save"]
+- ["SH", "userInfo"]
+- !private ["SH", "viewContext"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "hasChanges"]
+- !private ["So8NSCodingP", "save"]
+- ["So8NSCodingP", "userInfo"]
+- ["So9NSCopyingP", "userInfo"]
+- ["So7NSErrorC", "userInfo"]
+- !private ["So9NSLockingP", "hasChanges"]
+- !private ["So9NSLockingP", "save"]
+- !private ["So22NSManagedObjectContextC", "hasChanges"]
+- !private ["So22NSManagedObjectContextC", "save"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "hasChanges"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "loadPersistentStores"]
+- ["So8NSObjectC", "loadPersistentStoresWithCompletionHandler"]
+- ["So8NSObjectC", "persistentContainerWithName"]
+- !private ["So8NSObjectC", "save"]
+- ["So8NSObjectC", "userInfo"]
+- !private ["So8NSObjectC", "viewContext"]
+- !private ["So8NSObjectP", "hasChanges"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "loadPersistentStores"]
+- ["So8NSObjectP", "loadPersistentStoresWithCompletionHandler"]
+- ["So8NSObjectP", "persistentContainerWithName"]
+- !private ["So8NSObjectP", "save"]
+- ["So8NSObjectP", "userInfo"]
+- !private ["So8NSObjectP", "viewContext"]
+- ["So21NSPersistentContainerC", "init"]
+- ["So21NSPersistentContainerC", "loadPersistentStores"]
+- !private ["So21NSPersistentContainerC", "viewContext"]
+- ["So14NSSecureCodingP", "userInfo"]
+- ["15WeatherTestWork15PresistentStoreC", "NSError"]
+- ["15WeatherTestWork15PresistentStoreC", "NSManagedObjectContext"]
+- ["15WeatherTestWork15PresistentStoreC", "NSPersistentContainer"]
+- ["15WeatherTestWork15PresistentStoreC", "context"]
+- ["15WeatherTestWork15PresistentStoreC", "deinit"]
+- ["15WeatherTestWork15PresistentStoreC", "fatalError"]
+- ["15WeatherTestWork15PresistentStoreC", "init"]
+- ["15WeatherTestWork15PresistentStoreC", "persistentContainer"]
+- !private ["15WeatherTestWork15PresistentStoreC", "print"]
+- ["15WeatherTestWork15PresistentStoreC", "saveContext"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["s27StringInterpolationProtocolP", "init"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasChanges"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "loadPersistentStores"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "save"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userInfo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewContext"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hasChanges"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "loadPersistentStores"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "save"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "userInfo"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewContext"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s26DefaultStringInterpolationV"
+- "SQ"
+- "s5ErrorP"
+- "s32ExpressibleByStringInterpolationP"
+- "SH"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So7NSErrorC"
+- !private "So9NSLockingP"
+- !private "So22NSManagedObjectContextC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So21NSPersistentContainerC"
+- "So14NSSecureCodingP"
+- "15WeatherTestWork15PresistentStoreC"
+- "s27StringInterpolationProtocolP"
+- "s16TextOutputStreamP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/MapKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "904f3c4470338e49b50f3a5de1ec8b14"

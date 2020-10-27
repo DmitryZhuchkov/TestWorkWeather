@@ -1,0 +1,675 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DescriptionViewController"
+provides-nominal:
+- "15WeatherTestWork25DescriptionViewControllerC"
+provides-member:
+- ["15WeatherTestWork25DescriptionViewControllerC", ""]
+provides-dynamic-lookup:
+- "Name"
+- "cityImage"
+- "fullDescription"
+- "googleMap"
+- "image1"
+- "latitude"
+- "longtitude"
+- "stringFullDescription"
+- "stringName"
+- "stringcCityImage"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "CLLocationCoordinate2D"
+- "DescriptionViewController"
+- "Double"
+- !private "GMSCameraPosition"
+- "GMSMapView"
+- !private "GMSMarker"
+- !private "Name"
+- "String"
+- "UIImage"
+- "UIImageView"
+- "UILabel"
+- "UIViewController"
+- !private "cityImage"
+- !private "fullDescription"
+- !private "googleMap"
+- !private "image1"
+- !private "latitude"
+- !private "longtitude"
+- !private "stringFullDescription"
+- !private "stringName"
+depends-member:
+- ["SK", ""]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "CLLocationCoordinate2D"]
+- !private ["s7CVarArgP", "GMSCameraPosition"]
+- ["s7CVarArgP", "GMSMapView"]
+- !private ["s7CVarArgP", "GMSMarker"]
+- !private ["s7CVarArgP", "Name"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "cityImage"]
+- !private ["s7CVarArgP", "fullDescription"]
+- !private ["s7CVarArgP", "googleMap"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "image1"]
+- !private ["s7CVarArgP", "latitude"]
+- !private ["s7CVarArgP", "longtitude"]
+- !private ["s7CVarArgP", "stringFullDescription"]
+- !private ["s7CVarArgP", "stringName"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "CLLocationCoordinate2D"]
+- !private ["s28CustomDebugStringConvertibleP", "GMSCameraPosition"]
+- ["s28CustomDebugStringConvertibleP", "GMSMapView"]
+- !private ["s28CustomDebugStringConvertibleP", "GMSMarker"]
+- !private ["s28CustomDebugStringConvertibleP", "Name"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "cityImage"]
+- !private ["s28CustomDebugStringConvertibleP", "fullDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "googleMap"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "image1"]
+- !private ["s28CustomDebugStringConvertibleP", "latitude"]
+- !private ["s28CustomDebugStringConvertibleP", "longtitude"]
+- !private ["s28CustomDebugStringConvertibleP", "stringFullDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "stringName"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "CLLocationCoordinate2D"]
+- !private ["s23CustomStringConvertibleP", "GMSCameraPosition"]
+- ["s23CustomStringConvertibleP", "GMSMapView"]
+- !private ["s23CustomStringConvertibleP", "GMSMarker"]
+- !private ["s23CustomStringConvertibleP", "Name"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "cityImage"]
+- !private ["s23CustomStringConvertibleP", "fullDescription"]
+- !private ["s23CustomStringConvertibleP", "googleMap"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "image1"]
+- !private ["s23CustomStringConvertibleP", "latitude"]
+- !private ["s23CustomStringConvertibleP", "longtitude"]
+- !private ["s23CustomStringConvertibleP", "stringFullDescription"]
+- !private ["s23CustomStringConvertibleP", "stringName"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "image"]
+- !private ["Se", "text"]
+- !private ["15WeatherTestWork25DescriptionViewControllerC", "CLLocationCoordinate2D"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "Double"]
+- !private ["15WeatherTestWork25DescriptionViewControllerC", "GMSCameraPosition"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "GMSMapView"]
+- !private ["15WeatherTestWork25DescriptionViewControllerC", "GMSMarker"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "Name"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "String"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "UIImage"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "UIImageView"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "UILabel"]
+- ["15WeatherTestWork25DescriptionViewControllerC", ""]
+- ["15WeatherTestWork25DescriptionViewControllerC", "cityImage"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "deinit"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "fullDescription"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "googleMap"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "image1"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "init"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "latitude"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "longtitude"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "stringFullDescription"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "stringName"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "stringcCityImage"]
+- ["15WeatherTestWork25DescriptionViewControllerC", "viewDidLoad"]
+- !private ["SE", "image"]
+- !private ["SE", "text"]
+- !private ["SQ", "CLLocationCoordinate2D"]
+- !private ["SQ", "GMSCameraPosition"]
+- ["SQ", "GMSMapView"]
+- !private ["SQ", "GMSMarker"]
+- !private ["SQ", "Name"]
+- ["SQ", ""]
+- !private ["SQ", "cityImage"]
+- !private ["SQ", "fullDescription"]
+- !private ["SQ", "googleMap"]
+- !private ["SQ", "image"]
+- !private ["SQ", "image1"]
+- !private ["SQ", "latitude"]
+- !private ["SQ", "longtitude"]
+- !private ["SQ", "stringFullDescription"]
+- !private ["SQ", "stringName"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["SH", "CLLocationCoordinate2D"]
+- !private ["SH", "GMSCameraPosition"]
+- ["SH", "GMSMapView"]
+- !private ["SH", "GMSMarker"]
+- !private ["SH", "Name"]
+- ["SH", ""]
+- !private ["SH", "cityImage"]
+- !private ["SH", "fullDescription"]
+- !private ["SH", "googleMap"]
+- !private ["SH", "image"]
+- !private ["SH", "image1"]
+- !private ["SH", "latitude"]
+- !private ["SH", "longtitude"]
+- !private ["SH", "stringFullDescription"]
+- !private ["SH", "stringName"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- !private ["So8NSCodingP", "CLLocationCoordinate2D"]
+- ["So8NSCodingP", "Double"]
+- !private ["So8NSCodingP", "GMSCameraPosition"]
+- ["So8NSCodingP", "GMSMapView"]
+- !private ["So8NSCodingP", "GMSMarker"]
+- ["So8NSCodingP", "Name"]
+- ["So8NSCodingP", "String"]
+- ["So8NSCodingP", "UIImage"]
+- ["So8NSCodingP", "UIImageView"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "cityImage"]
+- ["So8NSCodingP", "fullDescription"]
+- !private ["So8NSCodingP", "googleMap"]
+- !private ["So8NSCodingP", "image"]
+- ["So8NSCodingP", "image1"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "latitude"]
+- ["So8NSCodingP", "longtitude"]
+- ["So8NSCodingP", "stringFullDescription"]
+- ["So8NSCodingP", "stringName"]
+- ["So8NSCodingP", "stringcCityImage"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "CLLocationCoordinate2D"]
+- ["So26NSExtensionRequestHandlingP", "Double"]
+- !private ["So26NSExtensionRequestHandlingP", "GMSCameraPosition"]
+- ["So26NSExtensionRequestHandlingP", "GMSMapView"]
+- !private ["So26NSExtensionRequestHandlingP", "GMSMarker"]
+- ["So26NSExtensionRequestHandlingP", "Name"]
+- ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", "UIImage"]
+- ["So26NSExtensionRequestHandlingP", "UIImageView"]
+- ["So26NSExtensionRequestHandlingP", "UILabel"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "cityImage"]
+- ["So26NSExtensionRequestHandlingP", "fullDescription"]
+- !private ["So26NSExtensionRequestHandlingP", "googleMap"]
+- ["So26NSExtensionRequestHandlingP", "image1"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "latitude"]
+- ["So26NSExtensionRequestHandlingP", "longtitude"]
+- ["So26NSExtensionRequestHandlingP", "stringFullDescription"]
+- ["So26NSExtensionRequestHandlingP", "stringName"]
+- ["So26NSExtensionRequestHandlingP", "stringcCityImage"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "CLLocationCoordinate2D"]
+- ["So8NSObjectC", "Double"]
+- !private ["So8NSObjectC", "GMSCameraPosition"]
+- ["So8NSObjectC", "GMSMapView"]
+- !private ["So8NSObjectC", "GMSMarker"]
+- ["So8NSObjectC", "Name"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "cityImage"]
+- ["So8NSObjectC", "fullDescription"]
+- !private ["So8NSObjectC", "googleMap"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "image1"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "latitude"]
+- ["So8NSObjectC", "longtitude"]
+- ["So8NSObjectC", "stringFullDescription"]
+- ["So8NSObjectC", "stringName"]
+- ["So8NSObjectC", "stringcCityImage"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "CLLocationCoordinate2D"]
+- ["So8NSObjectP", "Double"]
+- !private ["So8NSObjectP", "GMSCameraPosition"]
+- ["So8NSObjectP", "GMSMapView"]
+- !private ["So8NSObjectP", "GMSMarker"]
+- ["So8NSObjectP", "Name"]
+- ["So8NSObjectP", "String"]
+- ["So8NSObjectP", "UIImage"]
+- ["So8NSObjectP", "UIImageView"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "cityImage"]
+- ["So8NSObjectP", "fullDescription"]
+- !private ["So8NSObjectP", "googleMap"]
+- !private ["So8NSObjectP", "image"]
+- ["So8NSObjectP", "image1"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "latitude"]
+- ["So8NSObjectP", "longtitude"]
+- ["So8NSObjectP", "stringFullDescription"]
+- ["So8NSObjectP", "stringName"]
+- ["So8NSObjectP", "stringcCityImage"]
+- !private ["So8NSObjectP", "text"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "image"]
+- !private ["Sq", "text"]
+- ["ST", ""]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "CLLocationCoordinate2D"]
+- ["So21UIAppearanceContainerP", "Double"]
+- !private ["So21UIAppearanceContainerP", "GMSCameraPosition"]
+- ["So21UIAppearanceContainerP", "GMSMapView"]
+- !private ["So21UIAppearanceContainerP", "GMSMarker"]
+- ["So21UIAppearanceContainerP", "Name"]
+- ["So21UIAppearanceContainerP", "String"]
+- ["So21UIAppearanceContainerP", "UIImage"]
+- ["So21UIAppearanceContainerP", "UIImageView"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "cityImage"]
+- ["So21UIAppearanceContainerP", "fullDescription"]
+- !private ["So21UIAppearanceContainerP", "googleMap"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- ["So21UIAppearanceContainerP", "image1"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "latitude"]
+- ["So21UIAppearanceContainerP", "longtitude"]
+- ["So21UIAppearanceContainerP", "stringFullDescription"]
+- ["So21UIAppearanceContainerP", "stringName"]
+- ["So21UIAppearanceContainerP", "stringcCityImage"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "CLLocationCoordinate2D"]
+- ["So18UIContentContainerP", "Double"]
+- !private ["So18UIContentContainerP", "GMSCameraPosition"]
+- ["So18UIContentContainerP", "GMSMapView"]
+- !private ["So18UIContentContainerP", "GMSMarker"]
+- ["So18UIContentContainerP", "Name"]
+- ["So18UIContentContainerP", "String"]
+- ["So18UIContentContainerP", "UIImage"]
+- ["So18UIContentContainerP", "UIImageView"]
+- ["So18UIContentContainerP", "UILabel"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "cityImage"]
+- ["So18UIContentContainerP", "fullDescription"]
+- !private ["So18UIContentContainerP", "googleMap"]
+- ["So18UIContentContainerP", "image1"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "latitude"]
+- ["So18UIContentContainerP", "longtitude"]
+- ["So18UIContentContainerP", "stringFullDescription"]
+- ["So18UIContentContainerP", "stringName"]
+- ["So18UIContentContainerP", "stringcCityImage"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "CLLocationCoordinate2D"]
+- ["So18UIFocusEnvironmentP", "Double"]
+- !private ["So18UIFocusEnvironmentP", "GMSCameraPosition"]
+- ["So18UIFocusEnvironmentP", "GMSMapView"]
+- !private ["So18UIFocusEnvironmentP", "GMSMarker"]
+- ["So18UIFocusEnvironmentP", "Name"]
+- ["So18UIFocusEnvironmentP", "String"]
+- ["So18UIFocusEnvironmentP", "UIImage"]
+- ["So18UIFocusEnvironmentP", "UIImageView"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "cityImage"]
+- ["So18UIFocusEnvironmentP", "fullDescription"]
+- !private ["So18UIFocusEnvironmentP", "googleMap"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- ["So18UIFocusEnvironmentP", "image1"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "latitude"]
+- ["So18UIFocusEnvironmentP", "longtitude"]
+- ["So18UIFocusEnvironmentP", "stringFullDescription"]
+- ["So18UIFocusEnvironmentP", "stringName"]
+- ["So18UIFocusEnvironmentP", "stringcCityImage"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "image"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "image"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "CLLocationCoordinate2D"]
+- ["So30UIPasteConfigurationSupportingP", "Double"]
+- !private ["So30UIPasteConfigurationSupportingP", "GMSCameraPosition"]
+- ["So30UIPasteConfigurationSupportingP", "GMSMapView"]
+- !private ["So30UIPasteConfigurationSupportingP", "GMSMarker"]
+- ["So30UIPasteConfigurationSupportingP", "Name"]
+- ["So30UIPasteConfigurationSupportingP", "String"]
+- ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- ["So30UIPasteConfigurationSupportingP", "UIImageView"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "cityImage"]
+- ["So30UIPasteConfigurationSupportingP", "fullDescription"]
+- !private ["So30UIPasteConfigurationSupportingP", "googleMap"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- ["So30UIPasteConfigurationSupportingP", "image1"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "latitude"]
+- ["So30UIPasteConfigurationSupportingP", "longtitude"]
+- ["So30UIPasteConfigurationSupportingP", "stringFullDescription"]
+- ["So30UIPasteConfigurationSupportingP", "stringName"]
+- ["So30UIPasteConfigurationSupportingP", "stringcCityImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "CLLocationCoordinate2D"]
+- ["So11UIResponderC", "Double"]
+- !private ["So11UIResponderC", "GMSCameraPosition"]
+- ["So11UIResponderC", "GMSMapView"]
+- !private ["So11UIResponderC", "GMSMarker"]
+- ["So11UIResponderC", "Name"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "cityImage"]
+- ["So11UIResponderC", "fullDescription"]
+- !private ["So11UIResponderC", "googleMap"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "image1"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "latitude"]
+- ["So11UIResponderC", "longtitude"]
+- ["So11UIResponderC", "stringFullDescription"]
+- ["So11UIResponderC", "stringName"]
+- ["So11UIResponderC", "stringcCityImage"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CLLocationCoordinate2D"]
+- ["So30UIResponderStandardEditActionsP", "Double"]
+- !private ["So30UIResponderStandardEditActionsP", "GMSCameraPosition"]
+- ["So30UIResponderStandardEditActionsP", "GMSMapView"]
+- !private ["So30UIResponderStandardEditActionsP", "GMSMarker"]
+- ["So30UIResponderStandardEditActionsP", "Name"]
+- ["So30UIResponderStandardEditActionsP", "String"]
+- ["So30UIResponderStandardEditActionsP", "UIImage"]
+- ["So30UIResponderStandardEditActionsP", "UIImageView"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "cityImage"]
+- ["So30UIResponderStandardEditActionsP", "fullDescription"]
+- !private ["So30UIResponderStandardEditActionsP", "googleMap"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- ["So30UIResponderStandardEditActionsP", "image1"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "latitude"]
+- ["So30UIResponderStandardEditActionsP", "longtitude"]
+- ["So30UIResponderStandardEditActionsP", "stringFullDescription"]
+- ["So30UIResponderStandardEditActionsP", "stringName"]
+- ["So30UIResponderStandardEditActionsP", "stringcCityImage"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "CLLocationCoordinate2D"]
+- ["So16UIStateRestoringP", "Double"]
+- !private ["So16UIStateRestoringP", "GMSCameraPosition"]
+- ["So16UIStateRestoringP", "GMSMapView"]
+- !private ["So16UIStateRestoringP", "GMSMarker"]
+- ["So16UIStateRestoringP", "Name"]
+- ["So16UIStateRestoringP", "String"]
+- ["So16UIStateRestoringP", "UIImage"]
+- ["So16UIStateRestoringP", "UIImageView"]
+- ["So16UIStateRestoringP", "UILabel"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "cityImage"]
+- ["So16UIStateRestoringP", "fullDescription"]
+- !private ["So16UIStateRestoringP", "googleMap"]
+- ["So16UIStateRestoringP", "image1"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "latitude"]
+- ["So16UIStateRestoringP", "longtitude"]
+- ["So16UIStateRestoringP", "stringFullDescription"]
+- ["So16UIStateRestoringP", "stringName"]
+- ["So16UIStateRestoringP", "stringcCityImage"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "CLLocationCoordinate2D"]
+- ["So18UITraitEnvironmentP", "Double"]
+- !private ["So18UITraitEnvironmentP", "GMSCameraPosition"]
+- ["So18UITraitEnvironmentP", "GMSMapView"]
+- !private ["So18UITraitEnvironmentP", "GMSMarker"]
+- ["So18UITraitEnvironmentP", "Name"]
+- ["So18UITraitEnvironmentP", "String"]
+- ["So18UITraitEnvironmentP", "UIImage"]
+- ["So18UITraitEnvironmentP", "UIImageView"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "cityImage"]
+- ["So18UITraitEnvironmentP", "fullDescription"]
+- !private ["So18UITraitEnvironmentP", "googleMap"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- ["So18UITraitEnvironmentP", "image1"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "latitude"]
+- ["So18UITraitEnvironmentP", "longtitude"]
+- ["So18UITraitEnvironmentP", "stringFullDescription"]
+- ["So18UITraitEnvironmentP", "stringName"]
+- ["So18UITraitEnvironmentP", "stringcCityImage"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "CLLocationCoordinate2D"]
+- ["So23UIUserActivityRestoringP", "Double"]
+- !private ["So23UIUserActivityRestoringP", "GMSCameraPosition"]
+- ["So23UIUserActivityRestoringP", "GMSMapView"]
+- !private ["So23UIUserActivityRestoringP", "GMSMarker"]
+- ["So23UIUserActivityRestoringP", "Name"]
+- ["So23UIUserActivityRestoringP", "String"]
+- ["So23UIUserActivityRestoringP", "UIImage"]
+- ["So23UIUserActivityRestoringP", "UIImageView"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "cityImage"]
+- ["So23UIUserActivityRestoringP", "fullDescription"]
+- !private ["So23UIUserActivityRestoringP", "googleMap"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- ["So23UIUserActivityRestoringP", "image1"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "latitude"]
+- ["So23UIUserActivityRestoringP", "longtitude"]
+- ["So23UIUserActivityRestoringP", "stringFullDescription"]
+- ["So23UIUserActivityRestoringP", "stringName"]
+- ["So23UIUserActivityRestoringP", "stringcCityImage"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "CLLocationCoordinate2D"]
+- ["So16UIViewControllerC", "Double"]
+- !private ["So16UIViewControllerC", "GMSCameraPosition"]
+- ["So16UIViewControllerC", "GMSMapView"]
+- !private ["So16UIViewControllerC", "GMSMarker"]
+- ["So16UIViewControllerC", "Name"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "cityImage"]
+- ["So16UIViewControllerC", "fullDescription"]
+- !private ["So16UIViewControllerC", "googleMap"]
+- ["So16UIViewControllerC", "image1"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "latitude"]
+- ["So16UIViewControllerC", "longtitude"]
+- ["So16UIViewControllerC", "stringFullDescription"]
+- ["So16UIViewControllerC", "stringName"]
+- ["So16UIViewControllerC", "stringcCityImage"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CLLocationCoordinate2D"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GMSCameraPosition"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "GMSMapView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GMSMarker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Name"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cityImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fullDescription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "googleMap"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image1"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "latitude"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "longtitude"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringFullDescription"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CLLocationCoordinate2D"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "GMSCameraPosition"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "GMSMapView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "GMSMarker"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Name"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "cityImage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "fullDescription"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "googleMap"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "image1"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "latitude"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "longtitude"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stringFullDescription"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stringName"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- "15WeatherTestWork25DescriptionViewControllerC"
+- !private "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "ST"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/MapKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/build/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/dmitrijzuckov/Desktop/Xcode-beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a44740e004f16451ed112db8d367fbaf"

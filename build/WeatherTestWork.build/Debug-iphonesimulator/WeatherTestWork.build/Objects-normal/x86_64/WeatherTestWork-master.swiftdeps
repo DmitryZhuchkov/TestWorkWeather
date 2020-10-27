@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.25.2 clang-1200.0.27.1)"
+options: "0901077478a43159a49468aa50a29d14"
+build_time: [1603827695, 91686000]
+inputs:
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/ViewController.swift": [1603803846, 885068403]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/CityViewController.swift": [1603741542, 739178760]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/DescriptionViewController.swift": [1603801772, 593197122]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/AppDelegate.swift": [1603804234, 444893406]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/SceneDelegate.swift": [1603803846, 883174060]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/Place+CoreDataClass.swift": [1603813981, 756514233]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/CellWeather.swift": [1603367384, 701355701]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/PresistentStore.swift": [1603813530, 530929891]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/Place+CoreDataProperties.swift": [1603813092, 873220955]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/PlaceDataModel.swift": [1603819469, 156428002]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/PlaceViewController.swift": [1603822092, 604607926]
+  "/Users/dmitrijzuckov/Desktop/Projects/WeatherTestWork/WeatherTestWork/CitySelectViewController.swift": [1603738765, 3314574]
