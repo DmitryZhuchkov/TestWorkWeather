@@ -3,8 +3,6 @@
 //  ToDoListWithCoreData
 //
 //  Created by Дмитрий Жучков on 14.10.2020.
-//  Copyright © 2020 Mohammed S A Kwaik. All rights reserved.
-//
 
 import UIKit
 import Alamofire
